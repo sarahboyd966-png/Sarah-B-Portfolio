@@ -43,3 +43,5 @@ Measured time delay, phase shift, wavelength, and transfer behavior of a 50 Ω c
 ## Tools and Methods
 
 Vector network analyzers (VNA/NanoVNA), Smith charts, S-parameters, SOL/SOLT calibration, oscilloscopes, waveform generators, coaxial transmission lines, time-domain reflectometry, slotted lines, VSWR, reflection coefficient, impedance matching, quarter-wave transformers, stub matching, RF filters, RF amplifiers, antennas, waveguides, PSpice, and microwave measurement hardware.
+
+The collection progresses from transmission-line fundamentals to advanced RF measurement and microwave hardware.
