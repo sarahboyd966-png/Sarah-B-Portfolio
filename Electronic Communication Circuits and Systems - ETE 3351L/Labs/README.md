@@ -2,6 +2,8 @@
 
 The reports are ordered from the latest and most advanced work to the earlier foundational labs.
 
+Technical scope: analog and digital modulation, RF frequency conversion, Fourier and spectrum analysis, sampling and Nyquist behavior, PLL demodulation, oscillators, filters, RMS/dB measurements, and communication-system instrumentation.
+
 ## [01 - Lab 13 - Digital Phase Modulation and QAM](./01%20-%20Lab%2013%20-%20Digital%20Phase%20Modulation%20and%20QAM.pdf)
 
 Explored digital modulation from ASK, FSK, and BPSK through more advanced phase and quadrature methods. The lab examined IQ mapping and constellation diagrams for QPSK, higher-order PSK, and QAM formats including 4-QAM, 8-QAM, 16-QAM, 32-QAM, and 64-QAM, with emphasis on bits per symbol, data rate, phase and amplitude states, and the effect of noise on constellation-point separation.
