@@ -1,6 +1,6 @@
 # Adjustable Power Supply - Altium PCB Design and Enclosure
 
-This team project documented the design and construction of an adjustable linear DC power supply. The work combined circuit analysis, manual component selection, PCB design and manufacturing preparation, assembly, troubleshooting, and mechanical enclosure design.
+Our team designed and constructed an adjustable linear DC power supply. The work combined circuit analysis, manual component selection, PCB design and manufacturing preparation, assembly, troubleshooting, and mechanical enclosure design.
 
 ## Technical highlights
 
