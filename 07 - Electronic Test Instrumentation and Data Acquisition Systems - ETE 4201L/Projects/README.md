@@ -2,7 +2,7 @@
 
 Two larger sensor projects from Electronic Test Instrumentation and Data Acquisition Systems are organized here separately from the regular laboratory reports. Technical focus includes sensor interfacing, analog-to-digital conversion, embedded control, PWM, signal conditioning, and real-time measurement.
 
-These were team projects completed with Wesley Hwee and Mariana Rivera. The projects were previously demonstrated by video, and the original Portfolium entries provide additional project context and collaborator information.
+Our team completed these projects with Wesley Hwee and Mariana Rivera. The projects were previously demonstrated by video, and the original Portfolium entries provide additional project context and collaborator information.
 
 ## [Project 1](./01%20-%20Project%201.pdf) - Temperature-Controlled PWM Fan
 
