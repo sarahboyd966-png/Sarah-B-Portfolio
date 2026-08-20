@@ -1,4 +1,4 @@
-# Introduction to Microcontrollers - ECE 3301L
+# Microcontrollers - ECE 3301
 
 Course portfolio focused on PIC18F4321 microcontroller programming, embedded hardware interfacing, assembly and C development, digital I/O, interrupt-driven control, display interfacing, and an embedded computer-vision tracking project.
 
